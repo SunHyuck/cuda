@@ -1,2 +1,2 @@
 # cuda
-followed by Inflearn CUDA parallel computing lecture.
+based on the Inflearn CUDA parallel computing lecture.
